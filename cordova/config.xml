@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="hungry.app" version="1.0.0">
+  <name>Nälkä?</name>
+  <description>
+    Onko nälkä?
+  </description>
+  <author email="topias.maki2@edu.vaasa.fi">
+    TM
+  </author>
+</widget>

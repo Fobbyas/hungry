@@ -1,0 +1,9 @@
+{
+  "title": "Nälkä?",
+  "description": "Tabris.js - Nälkä",
+  "category": "Small Apps",
+  "main": "src/hungry.js",
+  "dependencies": {
+    "tabris": "^2.1.0"
+  }
+}
